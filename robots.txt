@@ -1,0 +1,8 @@
+# Robots.txt — Phil Team Jiu Jitsu
+# https://philteam.com.br
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://philteam.com.br/sitemap.xml
